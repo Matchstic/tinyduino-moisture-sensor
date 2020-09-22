@@ -9,9 +9,9 @@ The only hardware required is the ATWINC1500 TinyShield, a prototyping TinyShiel
 
 Connect the sensor as follows:
 
-SIG -> analogue 0
-VCC -> digital 7
-GND -> GND
+- SIG -> analogue 0
+- VCC -> digital 7
+- GND -> GND
 
 ### Setup
 
