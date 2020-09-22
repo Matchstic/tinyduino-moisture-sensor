@@ -1,7 +1,17 @@
 # TinyDuino WiFi Moisture Sensor
-A moisture sensor built with the TinyDuino platform
+A moisture sensor built with the TinyDuino platform, and a [SparkFun soil sensor](https://www.sparkfun.com/products/13322). 
 
 It is designed to work alongside [homebridge-http-moisture-sensor](https://github.com/Matchstic/homebridge-http-moisture-sensor) to display readings inside the Home app on iOS and macOS.
+
+### Hardware
+
+The only hardware required is the ATWINC1500 TinyShield, a prototyping TinyShield, and the mentioned sensor.
+
+Connect the sensor as follows:
+
+SIG -> analogue 0
+VCC -> digital 7
+GND -> GND
 
 ### Setup
 
