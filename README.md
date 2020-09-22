@@ -15,6 +15,10 @@ GND -> GND
 
 ### Setup
 
+Libraries required:
+- [WiFi101](https://www.arduino.cc/en/Reference/WiFi101)
+- [Low-Power](https://github.com/rocketscream/Low-Power)
+
 You will need to create a file named `arduino_secrets.h` next to the `.ino` file, with the following contents:
 
 ```
